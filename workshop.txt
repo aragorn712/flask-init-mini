@@ -1,1 +1,2 @@
 https://github.com/ldynia/workshop-github-fundamentals
+/query = """/ path:**/test_*.py
